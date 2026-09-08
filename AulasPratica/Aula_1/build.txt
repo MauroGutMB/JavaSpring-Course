@@ -1,0 +1,1 @@
+spring init --dependencies=web --build=maven --group=com.thinkconstructive --name=rest-demo --artifact rest-demo --packaging=jar --java-version=18 Aula_Project
