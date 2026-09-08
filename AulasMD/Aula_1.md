@@ -1,8 +1,8 @@
 # Conteúdo da aula 1
 
-Link da Aula: [https://www.youtube.com/watch?v=iBGkJln9BPo&list=PLcs1FElCmEu121gqGwlQt47d0SqNkzSTK](Aula 1: Implementação de CRUD com API REST)
+Link da Aula: [Aula 1: Implementação de CRUD com API REST](https://www.youtube.com/watch?v=iBGkJln9BPo&list=PLcs1FElCmEu121gqGwlQt47d0SqNkzSTK)
 
-Para iniciar um projeto Spring Boot, você pode utilizar o Spring Initializr, uma ferramenta online que gera a estrutura básica do projeto com as dependências necessárias. Acesse [https://start.spring.io/](https://start.spring.io/) e configure o projeto conforme suas necessidades, escolhendo o tipo de projeto (Maven ou Gradle), a versão do Spring Boot, as dependências desejadas e outras configurações. 
+Para iniciar um projeto Spring Boot, você pode utilizar o Spring Initializr, uma ferramenta online que gera a estrutura básica do projeto com as dependências necessárias. Acesse [start.spring.io](https://start.spring.io/) e configure o projeto conforme suas necessidades, escolhendo o tipo de projeto (Maven ou Gradle), a versão do Spring Boot, as dependências desejadas e outras configurações. 
 
 ## REST API
 
@@ -47,11 +47,11 @@ Sem XML de configuração, o Spring Boot utiliza convenções e anotações para
 
 ## Spring Initializr
 
-Para iniciar um projeto Spring Boot, você pode utilizar o Spring Initializr, uma ferramenta online que gera a estrutura básica do projeto com as dependências necessárias. Acesse [https://start.spring.io/](https://start.spring.io/) e configure o projeto conforme suas necessidades, escolhendo o tipo de projeto (Maven ou Gradle), a versão do Spring Boot, as dependências desejadas e outras configurações.
+Para iniciar um projeto Spring Boot, você pode utilizar o Spring Initializr, uma ferramenta online que gera a estrutura básica do projeto com as dependências necessárias. Acesse [start.spring.io](https://start.spring.io/) e configure o projeto conforme suas necessidades, escolhendo o tipo de projeto (Maven ou Gradle), a versão do Spring Boot, as dependências desejadas e outras configurações.
 
 ### Comandos CLI para spring 
 
-Docs: [https://docs.spring.io/spring-cli/reference/0.8/initializr.html](Spring.io CLI Reference Guide)
+Docs: [Spring.io CLI Reference Guide](https://docs.spring.io/spring-cli/reference/0.8/initializr.html)
 
 ### Postman 
-O Postman é uma ferramenta popular para testar APIs RESTful. Ele permite enviar solicitações HTTP para endpoints da API, visualizar respostas, adicionar cabeçalhos e parâmetros, e automatizar testes. Com o Postman, você pode criar coleções de solicitações, salvar ambientes de teste e compartilhar configurações com sua equipe. [https://www.postman.com/](Postman)
+O Postman é uma ferramenta popular para testar APIs RESTful. Ele permite enviar solicitações HTTP para endpoints da API, visualizar respostas, adicionar cabeçalhos e parâmetros, e automatizar testes. Com o Postman, você pode criar coleções de solicitações, salvar ambientes de teste e compartilhar configurações com sua equipe. [Postman](https://www.postman.com/)
